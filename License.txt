@@ -1,0 +1,25 @@
+Custom Non-Commercial License 1.0
+Use for personal, educational, or internal purposes only.
+Do not sell, sublicense, or distribute commercially.
+The user assumes full responsibility for any consequences.
+
+
+
+
+Permission is hereby granted to any person obtaining a copy of this software 
+and associated documentation files (the "Software") 
+to use the Software **only for personal, educational, or internal purposes**.
+
+You MAY NOT:
+- Sell, rent, lease, or sublicense the Software
+- Distribute the Software for commercial purposes
+- Claim ownership or authorship of the Software
+
+The Software is provided "AS IS", without warranty of any kind. 
+In no event shall the author be liable for any damages, losses, or claims arising out of or in connection with the use or inability to use the Software. 
+**The user assumes full responsibility** for any consequences resulting from the use of the Software.
+
+By using the Software, you agree to comply with these terms.
+
+
+Copyright (c) 2025 Ndumiso Mkhombe
