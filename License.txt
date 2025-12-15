@@ -1,25 +1,38 @@
-Custom Non-Commercial License 1.0
-Use for personal, educational, or internal purposes only.
-Do not sell, sublicense, or distribute commercially.
-The user assumes full responsibility for any consequences.
+MIT License
 
-
-
-
-Permission is hereby granted to any person obtaining a copy of this software 
-and associated documentation files (the "Software") 
-to use the Software **only for personal, educational, or internal purposes**.
-
-You MAY NOT:
-- Sell, rent, lease, or sublicense the Software
-- Distribute the Software for commercial purposes
-- Claim ownership or authorship of the Software
-
-The Software is provided "AS IS", without warranty of any kind. 
-In no event shall the author be liable for any damages, losses, or claims arising out of or in connection with the use or inability to use the Software. 
-**The user assumes full responsibility** for any consequences resulting from the use of the Software.
-
-By using the Software, you agree to comply with these terms.
-
+Copyright (c) 2025 PrinceBright2205
+Copyright (c) 2025 Ndumiso Mkhombe
+Custom All-Rights-Reserved License 2.0
 
 Copyright (c) 2025 Ndumiso Mkhombe
+
+1. **Restrictions**  
+Permission is **strictly prohibited** 
+for anyone to use, copy, modify, distribute, sell, sublicense,
+or otherwise exploit this code or any of its contents in any form, 
+for any purpose, **without explicit written permission** from the copyright holder.
+
+2. **Commercial Use**  
+Any attempt to sell, sublicense, or commercially exploit this code
+**requires a written agreement** with the copyright holder. 
+Such agreement may include **royalties or other compensation** as determined by the author.
+
+3. **Intellectual Property Enforcement**  
+Unauthorized use, copying, distribution, or commercialization of this code constitutes **copyright infringement**.
+The copyright holder reserves the right to pursue **legal action** for plagiarism, 
+copyright violation, or any misuse of the work.
+
+4. **No Liability**  
+The author assumes **no responsibility or liability**
+for any consequences arising from unauthorized use of this code.
+
+5. **Permission Requests**  
+All permission requests for usage, modification, distribution, 
+or commercial exploitation must be submitted in writing to:
+
+**Ndumiso Mkhombe**  
+GitHub: https://github.com/PrinceBright2205
+Email: ndumisomkhombe09@gmail.com
+
+all-rights-reserved license 2.0 with commercial use restrictions
+
